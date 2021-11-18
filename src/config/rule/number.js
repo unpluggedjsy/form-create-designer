@@ -1,6 +1,6 @@
 import uniqueId from '@form-create/utils/lib/unique';
 
-const label = '计数器';
+const label = '数量';
 const name = 'inputNumber';
 
 export default {
